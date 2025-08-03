@@ -156,1173 +156,1416 @@
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 11",
+    "symptom": "Nausea",
     "possible_causes": [
-      "Possible cause A11",
-      "Possible cause B11"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A11",
-      "Medication B11"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 11.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 12",
+    "symptom": "Constipation",
     "possible_causes": [
-      "Possible cause A12",
-      "Possible cause B12"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A12",
-      "Medication B12"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 12.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 13",
+    "symptom": "Runny Nose",
     "possible_causes": [
-      "Possible cause A13",
-      "Possible cause B13"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A13",
-      "Medication B13"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 13.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 14",
+    "symptom": "Back Pain",
     "possible_causes": [
-      "Possible cause A14",
-      "Possible cause B14"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A14",
-      "Medication B14"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 14.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 15",
+    "symptom": "Dizziness",
     "possible_causes": [
-      "Possible cause A15",
-      "Possible cause B15"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A15",
-      "Medication B15"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 15.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 16",
+    "symptom": "Itchy Skin",
     "possible_causes": [
-      "Possible cause A16",
-      "Possible cause B16"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A16",
-      "Medication B16"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 16.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 17",
+    "symptom": "Rash",
     "possible_causes": [
-      "Possible cause A17",
-      "Possible cause B17"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A17",
-      "Medication B17"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 17.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 18",
+    "symptom": "Acne",
     "possible_causes": [
-      "Possible cause A18",
-      "Possible cause B18"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A18",
-      "Medication B18"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 18.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 19",
+    "symptom": "Joint Pain",
     "possible_causes": [
-      "Possible cause A19",
-      "Possible cause B19"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A19",
-      "Medication B19"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 19.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 20",
+    "symptom": "Ear Pain",
     "possible_causes": [
-      "Possible cause A20",
-      "Possible cause B20"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A20",
-      "Medication B20"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 20.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 21",
+    "symptom": "Nausea (21)",
     "possible_causes": [
-      "Possible cause A21",
-      "Possible cause B21"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A21",
-      "Medication B21"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 21.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 22",
+    "symptom": "Constipation (22)",
     "possible_causes": [
-      "Possible cause A22",
-      "Possible cause B22"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A22",
-      "Medication B22"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 22.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 23",
+    "symptom": "Runny Nose (23)",
     "possible_causes": [
-      "Possible cause A23",
-      "Possible cause B23"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A23",
-      "Medication B23"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 23.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 24",
+    "symptom": "Back Pain (24)",
     "possible_causes": [
-      "Possible cause A24",
-      "Possible cause B24"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A24",
-      "Medication B24"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 24.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 25",
+    "symptom": "Dizziness (25)",
     "possible_causes": [
-      "Possible cause A25",
-      "Possible cause B25"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A25",
-      "Medication B25"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 25.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 26",
+    "symptom": "Itchy Skin (26)",
     "possible_causes": [
-      "Possible cause A26",
-      "Possible cause B26"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A26",
-      "Medication B26"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 26.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 27",
+    "symptom": "Rash (27)",
     "possible_causes": [
-      "Possible cause A27",
-      "Possible cause B27"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A27",
-      "Medication B27"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 27.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 28",
+    "symptom": "Acne (28)",
     "possible_causes": [
-      "Possible cause A28",
-      "Possible cause B28"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A28",
-      "Medication B28"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 28.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 29",
+    "symptom": "Joint Pain (29)",
     "possible_causes": [
-      "Possible cause A29",
-      "Possible cause B29"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A29",
-      "Medication B29"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 29.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 30",
+    "symptom": "Ear Pain (30)",
     "possible_causes": [
-      "Possible cause A30",
-      "Possible cause B30"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A30",
-      "Medication B30"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 30.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 31",
+    "symptom": "Nausea (31)",
     "possible_causes": [
-      "Possible cause A31",
-      "Possible cause B31"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A31",
-      "Medication B31"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 31.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 32",
+    "symptom": "Constipation (32)",
     "possible_causes": [
-      "Possible cause A32",
-      "Possible cause B32"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A32",
-      "Medication B32"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 32.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 33",
+    "symptom": "Runny Nose (33)",
     "possible_causes": [
-      "Possible cause A33",
-      "Possible cause B33"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A33",
-      "Medication B33"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 33.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 34",
+    "symptom": "Back Pain (34)",
     "possible_causes": [
-      "Possible cause A34",
-      "Possible cause B34"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A34",
-      "Medication B34"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 34.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 35",
+    "symptom": "Dizziness (35)",
     "possible_causes": [
-      "Possible cause A35",
-      "Possible cause B35"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A35",
-      "Medication B35"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 35.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 36",
+    "symptom": "Itchy Skin (36)",
     "possible_causes": [
-      "Possible cause A36",
-      "Possible cause B36"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A36",
-      "Medication B36"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 36.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 37",
+    "symptom": "Rash (37)",
     "possible_causes": [
-      "Possible cause A37",
-      "Possible cause B37"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A37",
-      "Medication B37"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 37.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 38",
+    "symptom": "Acne (38)",
     "possible_causes": [
-      "Possible cause A38",
-      "Possible cause B38"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A38",
-      "Medication B38"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 38.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 39",
+    "symptom": "Joint Pain (39)",
     "possible_causes": [
-      "Possible cause A39",
-      "Possible cause B39"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A39",
-      "Medication B39"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 39.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 40",
+    "symptom": "Ear Pain (40)",
     "possible_causes": [
-      "Possible cause A40",
-      "Possible cause B40"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A40",
-      "Medication B40"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 40.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 41",
+    "symptom": "Nausea (41)",
     "possible_causes": [
-      "Possible cause A41",
-      "Possible cause B41"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A41",
-      "Medication B41"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 41.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 42",
+    "symptom": "Constipation (42)",
     "possible_causes": [
-      "Possible cause A42",
-      "Possible cause B42"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A42",
-      "Medication B42"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 42.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 43",
+    "symptom": "Runny Nose (43)",
     "possible_causes": [
-      "Possible cause A43",
-      "Possible cause B43"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A43",
-      "Medication B43"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 43.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 44",
+    "symptom": "Back Pain (44)",
     "possible_causes": [
-      "Possible cause A44",
-      "Possible cause B44"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A44",
-      "Medication B44"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 44.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 45",
+    "symptom": "Dizziness (45)",
     "possible_causes": [
-      "Possible cause A45",
-      "Possible cause B45"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A45",
-      "Medication B45"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 45.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 46",
+    "symptom": "Itchy Skin (46)",
     "possible_causes": [
-      "Possible cause A46",
-      "Possible cause B46"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A46",
-      "Medication B46"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 46.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 47",
+    "symptom": "Rash (47)",
     "possible_causes": [
-      "Possible cause A47",
-      "Possible cause B47"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A47",
-      "Medication B47"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 47.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 48",
+    "symptom": "Acne (48)",
     "possible_causes": [
-      "Possible cause A48",
-      "Possible cause B48"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A48",
-      "Medication B48"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 48.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 49",
+    "symptom": "Joint Pain (49)",
     "possible_causes": [
-      "Possible cause A49",
-      "Possible cause B49"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A49",
-      "Medication B49"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 49.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 50",
+    "symptom": "Ear Pain (50)",
     "possible_causes": [
-      "Possible cause A50",
-      "Possible cause B50"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A50",
-      "Medication B50"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 50.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 51",
+    "symptom": "Nausea (51)",
     "possible_causes": [
-      "Possible cause A51",
-      "Possible cause B51"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A51",
-      "Medication B51"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 51.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 52",
+    "symptom": "Constipation (52)",
     "possible_causes": [
-      "Possible cause A52",
-      "Possible cause B52"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A52",
-      "Medication B52"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 52.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 53",
+    "symptom": "Runny Nose (53)",
     "possible_causes": [
-      "Possible cause A53",
-      "Possible cause B53"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A53",
-      "Medication B53"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 53.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 54",
+    "symptom": "Back Pain (54)",
     "possible_causes": [
-      "Possible cause A54",
-      "Possible cause B54"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A54",
-      "Medication B54"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 54.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 55",
+    "symptom": "Dizziness (55)",
     "possible_causes": [
-      "Possible cause A55",
-      "Possible cause B55"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A55",
-      "Medication B55"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 55.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 56",
+    "symptom": "Itchy Skin (56)",
     "possible_causes": [
-      "Possible cause A56",
-      "Possible cause B56"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A56",
-      "Medication B56"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 56.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 57",
+    "symptom": "Rash (57)",
     "possible_causes": [
-      "Possible cause A57",
-      "Possible cause B57"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A57",
-      "Medication B57"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 57.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 58",
+    "symptom": "Acne (58)",
     "possible_causes": [
-      "Possible cause A58",
-      "Possible cause B58"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A58",
-      "Medication B58"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 58.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 59",
+    "symptom": "Joint Pain (59)",
     "possible_causes": [
-      "Possible cause A59",
-      "Possible cause B59"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A59",
-      "Medication B59"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 59.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 60",
+    "symptom": "Ear Pain (60)",
     "possible_causes": [
-      "Possible cause A60",
-      "Possible cause B60"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A60",
-      "Medication B60"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 60.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 61",
+    "symptom": "Nausea (61)",
     "possible_causes": [
-      "Possible cause A61",
-      "Possible cause B61"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A61",
-      "Medication B61"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 61.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 62",
+    "symptom": "Constipation (62)",
     "possible_causes": [
-      "Possible cause A62",
-      "Possible cause B62"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A62",
-      "Medication B62"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 62.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 63",
+    "symptom": "Runny Nose (63)",
     "possible_causes": [
-      "Possible cause A63",
-      "Possible cause B63"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A63",
-      "Medication B63"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 63.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 64",
+    "symptom": "Back Pain (64)",
     "possible_causes": [
-      "Possible cause A64",
-      "Possible cause B64"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A64",
-      "Medication B64"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 64.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 65",
+    "symptom": "Dizziness (65)",
     "possible_causes": [
-      "Possible cause A65",
-      "Possible cause B65"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A65",
-      "Medication B65"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 65.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 66",
+    "symptom": "Itchy Skin (66)",
     "possible_causes": [
-      "Possible cause A66",
-      "Possible cause B66"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A66",
-      "Medication B66"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 66.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 67",
+    "symptom": "Rash (67)",
     "possible_causes": [
-      "Possible cause A67",
-      "Possible cause B67"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A67",
-      "Medication B67"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 67.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 68",
+    "symptom": "Acne (68)",
     "possible_causes": [
-      "Possible cause A68",
-      "Possible cause B68"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A68",
-      "Medication B68"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 68.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 69",
+    "symptom": "Joint Pain (69)",
     "possible_causes": [
-      "Possible cause A69",
-      "Possible cause B69"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A69",
-      "Medication B69"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 69.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 70",
+    "symptom": "Ear Pain (70)",
     "possible_causes": [
-      "Possible cause A70",
-      "Possible cause B70"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A70",
-      "Medication B70"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 70.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 71",
+    "symptom": "Nausea (71)",
     "possible_causes": [
-      "Possible cause A71",
-      "Possible cause B71"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A71",
-      "Medication B71"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 71.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 72",
+    "symptom": "Constipation (72)",
     "possible_causes": [
-      "Possible cause A72",
-      "Possible cause B72"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A72",
-      "Medication B72"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 72.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 73",
+    "symptom": "Runny Nose (73)",
     "possible_causes": [
-      "Possible cause A73",
-      "Possible cause B73"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A73",
-      "Medication B73"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 73.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 74",
+    "symptom": "Back Pain (74)",
     "possible_causes": [
-      "Possible cause A74",
-      "Possible cause B74"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A74",
-      "Medication B74"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 74.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 75",
+    "symptom": "Dizziness (75)",
     "possible_causes": [
-      "Possible cause A75",
-      "Possible cause B75"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A75",
-      "Medication B75"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 75.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 76",
+    "symptom": "Itchy Skin (76)",
     "possible_causes": [
-      "Possible cause A76",
-      "Possible cause B76"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A76",
-      "Medication B76"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 76.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 77",
+    "symptom": "Rash (77)",
     "possible_causes": [
-      "Possible cause A77",
-      "Possible cause B77"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A77",
-      "Medication B77"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 77.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 78",
+    "symptom": "Acne (78)",
     "possible_causes": [
-      "Possible cause A78",
-      "Possible cause B78"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A78",
-      "Medication B78"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 78.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 79",
+    "symptom": "Joint Pain (79)",
     "possible_causes": [
-      "Possible cause A79",
-      "Possible cause B79"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A79",
-      "Medication B79"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 79.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 80",
+    "symptom": "Ear Pain (80)",
     "possible_causes": [
-      "Possible cause A80",
-      "Possible cause B80"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A80",
-      "Medication B80"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 80.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 81",
+    "symptom": "Nausea (81)",
     "possible_causes": [
-      "Possible cause A81",
-      "Possible cause B81"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A81",
-      "Medication B81"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 81.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 82",
+    "symptom": "Constipation (82)",
     "possible_causes": [
-      "Possible cause A82",
-      "Possible cause B82"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A82",
-      "Medication B82"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 82.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 83",
+    "symptom": "Runny Nose (83)",
     "possible_causes": [
-      "Possible cause A83",
-      "Possible cause B83"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A83",
-      "Medication B83"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 83.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 84",
+    "symptom": "Back Pain (84)",
     "possible_causes": [
-      "Possible cause A84",
-      "Possible cause B84"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A84",
-      "Medication B84"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 84.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 85",
+    "symptom": "Dizziness (85)",
     "possible_causes": [
-      "Possible cause A85",
-      "Possible cause B85"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A85",
-      "Medication B85"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 85.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 86",
+    "symptom": "Itchy Skin (86)",
     "possible_causes": [
-      "Possible cause A86",
-      "Possible cause B86"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A86",
-      "Medication B86"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 86.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 87",
+    "symptom": "Rash (87)",
     "possible_causes": [
-      "Possible cause A87",
-      "Possible cause B87"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A87",
-      "Medication B87"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 87.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 88",
+    "symptom": "Acne (88)",
     "possible_causes": [
-      "Possible cause A88",
-      "Possible cause B88"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A88",
-      "Medication B88"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 88.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 89",
+    "symptom": "Joint Pain (89)",
     "possible_causes": [
-      "Possible cause A89",
-      "Possible cause B89"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A89",
-      "Medication B89"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 89.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 90",
+    "symptom": "Ear Pain (90)",
     "possible_causes": [
-      "Possible cause A90",
-      "Possible cause B90"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A90",
-      "Medication B90"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 90.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 91",
+    "symptom": "Nausea (91)",
     "possible_causes": [
-      "Possible cause A91",
-      "Possible cause B91"
+      "Food poisoning",
+      "Stomach flu",
+      "Pregnancy",
+      "Motion sickness"
     ],
     "suggested_medications": [
-      "Medication A91",
-      "Medication B91"
+      "Ondansetron",
+      "Domperidone",
+      "ORS"
     ],
-    "note": "General care instructions for symptom 91.",
+    "note": "Avoid strong odors and greasy foods. Stay hydrated.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 92",
+    "symptom": "Constipation (92)",
     "possible_causes": [
-      "Possible cause A92",
-      "Possible cause B92"
+      "Low fiber diet",
+      "Dehydration",
+      "Sedentary lifestyle",
+      "Irritable bowel syndrome"
     ],
     "suggested_medications": [
-      "Medication A92",
-      "Medication B92"
+      "Lactulose",
+      "Psyllium husk",
+      "Bisacodyl"
     ],
-    "note": "General care instructions for symptom 92.",
+    "note": "Increase fiber and water intake. Exercise regularly.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 93",
+    "symptom": "Runny Nose (93)",
     "possible_causes": [
-      "Possible cause A93",
-      "Possible cause B93"
+      "Common cold",
+      "Allergy",
+      "Sinusitis"
     ],
     "suggested_medications": [
-      "Medication A93",
-      "Medication B93"
+      "Antihistamines (Cetirizine)",
+      "Nasal decongestants",
+      "Steam inhalation"
     ],
-    "note": "General care instructions for symptom 93.",
+    "note": "Avoid allergens and stay warm.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 94",
+    "symptom": "Back Pain (94)",
     "possible_causes": [
-      "Possible cause A94",
-      "Possible cause B94"
+      "Muscle strain",
+      "Poor posture",
+      "Herniated disc"
     ],
     "suggested_medications": [
-      "Medication A94",
-      "Medication B94"
+      "Ibuprofen",
+      "Muscle relaxants",
+      "Hot compress"
     ],
-    "note": "General care instructions for symptom 94.",
+    "note": "Maintain good posture. Use back support.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 95",
+    "symptom": "Dizziness (95)",
     "possible_causes": [
-      "Possible cause A95",
-      "Possible cause B95"
+      "Low blood pressure",
+      "Dehydration",
+      "Inner ear problem",
+      "Anemia"
     ],
     "suggested_medications": [
-      "Medication A95",
-      "Medication B95"
+      "ORS",
+      "Iron supplements",
+      "Meclizine (for vertigo)"
     ],
-    "note": "General care instructions for symptom 95.",
+    "note": "Sit or lie down immediately to avoid falling.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 96",
+    "symptom": "Itchy Skin (96)",
     "possible_causes": [
-      "Possible cause A96",
-      "Possible cause B96"
+      "Allergic reaction",
+      "Dry skin",
+      "Eczema",
+      "Fungal infection"
     ],
     "suggested_medications": [
-      "Medication A96",
-      "Medication B96"
+      "Antihistamines",
+      "Moisturizer",
+      "Clotrimazole (if fungal)"
     ],
-    "note": "General care instructions for symptom 96.",
+    "note": "Avoid scratching. Use gentle skincare products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 97",
+    "symptom": "Rash (97)",
     "possible_causes": [
-      "Possible cause A97",
-      "Possible cause B97"
+      "Allergic reaction",
+      "Heat",
+      "Contact dermatitis",
+      "Chickenpox"
     ],
     "suggested_medications": [
-      "Medication A97",
-      "Medication B97"
+      "Calamine lotion",
+      "Antihistamines",
+      "Hydrocortisone cream"
     ],
-    "note": "General care instructions for symptom 97.",
+    "note": "Keep the area clean and avoid irritants.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 98",
+    "symptom": "Acne (98)",
     "possible_causes": [
-      "Possible cause A98",
-      "Possible cause B98"
+      "Hormonal changes",
+      "Poor hygiene",
+      "Diet",
+      "Stress"
     ],
     "suggested_medications": [
-      "Medication A98",
-      "Medication B98"
+      "Benzoyl peroxide",
+      "Salicylic acid",
+      "Clindamycin gel"
     ],
-    "note": "General care instructions for symptom 98.",
+    "note": "Wash face twice daily and avoid greasy products.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 99",
+    "symptom": "Joint Pain (99)",
     "possible_causes": [
-      "Possible cause A99",
-      "Possible cause B99"
+      "Arthritis",
+      "Injury",
+      "Overuse",
+      "Gout"
     ],
     "suggested_medications": [
-      "Medication A99",
-      "Medication B99"
+      "Ibuprofen",
+      "Naproxen",
+      "Topical NSAIDs"
     ],
-    "note": "General care instructions for symptom 99.",
+    "note": "Rest the joint and apply cold packs.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   },
   {
-    "symptom": "Symptom 100",
+    "symptom": "Ear Pain (100)",
     "possible_causes": [
-      "Possible cause A100",
-      "Possible cause B100"
+      "Ear infection",
+      "Earwax blockage",
+      "Throat infection"
     ],
     "suggested_medications": [
-      "Medication A100",
-      "Medication B100"
+      "Paracetamol",
+      "Antibiotic ear drops",
+      "Warm compress"
     ],
-    "note": "General care instructions for symptom 100.",
+    "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
   }
 ]
