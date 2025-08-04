@@ -1567,5 +1567,64 @@
     ],
     "note": "Avoid inserting objects into the ear.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
-  }
+  },
+{
+  "symptom": "Filaria",
+  "possible_causes": [
+    "Mosquito-borne parasitic infection",
+    "Lymphatic filariasis",
+    "Wuchereria bancrofti infection"
+  ],
+  "suggested_medications": [
+    "Diethylcarbamazine (DEC)",
+    "Albendazole 400mg"
+  ],
+  "note": "Avoid mosquito bites and maintain good hygiene.",
+  "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+},
+{
+  "symptom": "Chickenpox",
+  "possible_causes": [
+    "Varicella-zoster virus",
+    "Direct contact with infected person",
+    "Airborne virus particles"
+  ],
+  "suggested_medications": [
+    "Paracetamol for fever",
+    "Calamine lotion for itching",
+    "Acyclovir (in severe cases)"
+  ],
+  "note": "Avoid scratching and isolate until blisters dry.",
+  "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+},
+{
+  "symptom": "Plague",
+  "possible_causes": [
+    "Yersinia pestis bacteria",
+    "Bite from infected fleas",
+    "Contact with infected animals"
+  ],
+  "suggested_medications": [
+    "Streptomycin",
+    "Gentamicin",
+    "Doxycycline"
+  ],
+  "note": "Seek immediate medical care; this is a serious bacterial infection.",
+  "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+},
+{
+  "symptom": "Jaundice",
+  "possible_causes": [
+    "Hepatitis (A, B, C)",
+    "Liver cirrhosis",
+    "Gallstones",
+    "Hemolytic anemia"
+  ],
+  "suggested_medications": [
+    "Liver-supportive supplements (like Liv-52)",
+    "Rest and a low-fat diet"
+  ],
+  "note": "Avoid alcohol and fatty foods; monitor liver function.",
+  "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+}
 ]
