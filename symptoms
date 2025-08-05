@@ -1626,5 +1626,40 @@
   ],
   "note": "Avoid alcohol and fatty foods; monitor liver function.",
   "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
-}
+},
+  {
+    "symptom": "Loose motion",
+    "possible_causes": [
+      "Food poisoning",
+      "Bacterial or viral infection",
+      "Irritable bowel syndrome (IBS)",
+      "Contaminated water or food"
+    ],
+    "suggested_medications": [
+      "ORS (Oral Rehydration Solution)",
+      "Loperamide (for non-infectious diarrhea)",
+      "Zinc supplements"
+    ],
+    "note": "Stay hydrated; avoid spicy and oily foods.",
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist or worsen."
+  },
+  {
+    "symptom": "Weight loss",
+    "possible_causes": [
+      "Hyperthyroidism",
+      "Diabetes",
+      "Cancer",
+      "Malnutrition",
+      "Chronic infection (e.g., TB)"
+    ],
+    "suggested_medications": [
+      "High-calorie diet (under supervision)",
+      "Multivitamin supplements",
+      "Treatment depends on the underlying cause."
+    ],
+    "note": "Track your weight regularly and consult a doctor if loss is unexplained.",
+    "disclaimer": "This is not medical advice. Seek medical evaluation for persistent or sudden weight loss."
+  }
 ]
+
+
