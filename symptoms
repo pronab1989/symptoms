@@ -99,7 +99,13 @@
     "suggested_medications": [
       "Paracetamol 500mg",
       "Ibuprofen 200mg (if no stomach issues)"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Cough",
@@ -168,7 +174,13 @@
       "Cough syrup (dextromethorphan)",
       "Warm fluids",
       "Steam inhalation"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Headache",
@@ -237,7 +249,13 @@
       "Paracetamol",
       "Ibuprofen",
       "Drink water"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Vomiting",
@@ -323,7 +341,13 @@
       "ORS",
       "Domperidone",
       "Avoid solid food temporarily"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Diarrhea",
@@ -425,7 +449,13 @@
       "ORS",
       "Loperamide (only if necessary)",
       "Zinc supplements"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Fatigue",
@@ -528,7 +558,13 @@
       "Multivitamins",
       "Iron supplements",
       "Balanced diet"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Body Pain",
@@ -614,7 +650,13 @@
       "Paracetamol",
       "Ibuprofen",
       "Massage or warm compress"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Chest Pain",
@@ -682,7 +724,13 @@
     "suggested_medications": [
       "Antacid (if due to acidity)",
       "Rest"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Shortness of Breath",
@@ -767,7 +815,13 @@
     "suggested_medications": [
       "Inhaler (if prescribed)",
       "Sit upright and relax"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Sore Throat",
@@ -836,7 +890,13 @@
       "Warm salt water gargle",
       "Lozenges",
       "Paracetamol for pain"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea",
@@ -905,7 +965,13 @@
       "Ondansetron",
       "Domperidone",
       "ORS"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation",
@@ -1008,7 +1074,13 @@
       "Lactulose",
       "Psyllium husk",
       "Bisacodyl"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose",
@@ -1076,7 +1148,13 @@
       "Antihistamines (Cetirizine)",
       "Nasal decongestants",
       "Steam inhalation"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain",
@@ -1161,7 +1239,13 @@
       "Ibuprofen",
       "Muscle relaxants",
       "Hot compress"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness",
@@ -1247,7 +1331,13 @@
       "ORS",
       "Iron supplements",
       "Meclizine (for vertigo)"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin",
@@ -1333,7 +1423,13 @@
       "Antihistamines",
       "Moisturizer",
       "Clotrimazole (if fungal)"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash",
@@ -1436,7 +1532,13 @@
       "Calamine lotion",
       "Antihistamines",
       "Hydrocortisone cream"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne",
@@ -1539,7 +1641,13 @@
       "Benzoyl peroxide",
       "Salicylic acid",
       "Clindamycin gel"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain",
@@ -1608,7 +1716,13 @@
       "Ibuprofen",
       "Naproxen",
       "Topical NSAIDs"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain",
@@ -1676,7 +1790,13 @@
       "Paracetamol",
       "Antibiotic ear drops",
       "Warm compress"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (21)",
@@ -1751,7 +1871,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (22)",
@@ -1826,7 +1952,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (23)",
@@ -1884,7 +2016,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (24)",
@@ -1959,7 +2097,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (25)",
@@ -2017,7 +2161,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (26)",
@@ -2092,7 +2242,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (27)",
@@ -2167,7 +2323,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (28)",
@@ -2225,7 +2387,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (29)",
@@ -2300,7 +2468,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (30)",
@@ -2392,7 +2566,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (31)",
@@ -2467,7 +2647,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (32)",
@@ -2559,7 +2745,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (33)",
@@ -2617,7 +2809,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (34)",
@@ -2692,7 +2890,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (35)",
@@ -2767,7 +2971,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (36)",
@@ -2859,7 +3069,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (37)",
@@ -2951,7 +3167,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (38)",
@@ -3026,7 +3248,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (39)",
@@ -3084,7 +3312,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (40)",
@@ -3176,7 +3410,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (41)",
@@ -3268,7 +3508,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (42)",
@@ -3360,7 +3606,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (43)",
@@ -3435,7 +3687,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (44)",
@@ -3510,7 +3768,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (45)",
@@ -3568,7 +3832,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (46)",
@@ -3643,7 +3913,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (47)",
@@ -3701,7 +3977,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (48)",
@@ -3759,7 +4041,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (49)",
@@ -3817,7 +4105,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (50)",
@@ -3875,7 +4169,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (51)",
@@ -3950,7 +4250,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (52)",
@@ -4042,7 +4348,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (53)",
@@ -4100,7 +4412,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (54)",
@@ -4158,7 +4476,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (55)",
@@ -4216,7 +4540,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (56)",
@@ -4274,7 +4604,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (57)",
@@ -4349,7 +4685,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (58)",
@@ -4407,7 +4749,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (59)",
@@ -4482,7 +4830,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (60)",
@@ -4557,7 +4911,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (61)",
@@ -4649,7 +5009,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (62)",
@@ -4724,7 +5090,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (63)",
@@ -4816,7 +5188,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (64)",
@@ -4908,7 +5286,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (65)",
@@ -5000,7 +5384,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (66)",
@@ -5075,7 +5465,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (67)",
@@ -5167,7 +5563,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (68)",
@@ -5242,7 +5644,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (69)",
@@ -5300,7 +5708,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (70)",
@@ -5358,7 +5772,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (71)",
@@ -5433,7 +5853,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (72)",
@@ -5508,7 +5934,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (73)",
@@ -5566,7 +5998,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (74)",
@@ -5624,7 +6062,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (75)",
@@ -5682,7 +6126,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (76)",
@@ -5757,7 +6207,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (77)",
@@ -5849,7 +6305,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (78)",
@@ -5924,7 +6386,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (79)",
@@ -5999,7 +6467,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (80)",
@@ -6074,7 +6548,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (81)",
@@ -6166,7 +6646,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (82)",
@@ -6241,7 +6727,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (83)",
@@ -6299,7 +6791,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (84)",
@@ -6357,7 +6855,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (85)",
@@ -6415,7 +6919,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (86)",
@@ -6490,7 +7000,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (87)",
@@ -6548,7 +7064,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (88)",
@@ -6640,7 +7162,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (89)",
@@ -6715,7 +7243,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (90)",
@@ -6773,7 +7307,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Nausea (91)",
@@ -6865,7 +7405,13 @@
       }
     ],
     "note": "Avoid strong odors and greasy foods. Stay hydrated.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Constipation (92)",
@@ -6940,7 +7486,13 @@
       }
     ],
     "note": "Increase fiber and water intake. Exercise regularly.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Runny Nose (93)",
@@ -7032,7 +7584,13 @@
       }
     ],
     "note": "Avoid allergens and stay warm.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Back Pain (94)",
@@ -7124,7 +7682,13 @@
       }
     ],
     "note": "Maintain good posture. Use back support.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Dizziness (95)",
@@ -7182,7 +7746,13 @@
       }
     ],
     "note": "Sit or lie down immediately to avoid falling.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Itchy Skin (96)",
@@ -7240,7 +7810,13 @@
       }
     ],
     "note": "Avoid scratching. Use gentle skincare products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Rash (97)",
@@ -7298,7 +7874,13 @@
       }
     ],
     "note": "Keep the area clean and avoid irritants.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Acne (98)",
@@ -7390,7 +7972,13 @@
       }
     ],
     "note": "Wash face twice daily and avoid greasy products.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Joint Pain (99)",
@@ -7448,7 +8036,13 @@
       }
     ],
     "note": "Rest the joint and apply cold packs.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Ear Pain (100)",
@@ -7506,7 +8100,13 @@
       }
     ],
     "note": "Avoid inserting objects into the ear.",
-    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist."
+    "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Filaria",
@@ -7607,7 +8207,13 @@
     "suggested_medications": [
       "Diethylcarbamazine (DEC)",
       "Albendazole 400mg"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Chickenpox",
@@ -7692,7 +8298,13 @@
       "Paracetamol for fever",
       "Calamine lotion for itching",
       "Acyclovir (in severe cases)"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Plague",
@@ -7777,7 +8389,13 @@
       "Streptomycin",
       "Gentamicin",
       "Doxycycline"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Jaundice",
@@ -7879,7 +8497,13 @@
     "suggested_medications": [
       "Liver-supportive supplements (like Liv-52)",
       "Rest and a low-fat diet"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Loose motion",
@@ -7982,7 +8606,13 @@
       "ORS (Oral Rehydration Solution)",
       "Loperamide (for non-infectious diarrhea)",
       "Zinc supplements"
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   },
   {
     "symptom": "Weight loss",
@@ -8086,6 +8716,12 @@
       "High-calorie diet (under supervision)",
       "Multivitamin supplements",
       "Treatment depends on the underlying cause."
-    ]
+    ],
+    "red_flag_questions": [],
+    "red_flag_logic": {
+      "description": "If one or more red flag question answers are true, mark the symptom as red flag.",
+      "trigger_threshold": 1,
+      "action": "Mark as Red Flag"
+    }
   }
 ]
