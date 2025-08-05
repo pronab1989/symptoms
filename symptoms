@@ -3,7 +3,7 @@
     "symptom": "Fever",
     "questions": [
       {
-        "question": "Is your condition associated with viral infection?",
+        "question": "Is your temperature above 103\u00b0F?",
         "options": [
           {
             "option": "I think so",
