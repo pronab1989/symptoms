@@ -176,6 +176,14 @@
       "Cough syrup (dextromethorphan)",
       "Warm fluids",
       "Steam inhalation"
+    ],
+"red_flags": [
+      "Coughing up blood",
+      "Cough lasting more than 2 weeks",
+      "Chest pain with cough",
+      "Difficulty breathing with cough",
+      "Fever with cough",
+      "Weight loss with cough"
     ]
   },
   {
@@ -245,6 +253,14 @@
       "Paracetamol",
       "Ibuprofen",
       "Drink water"
+    ],
+"red_flags": [
+      "Severe headache like never before",
+      "Headache with fever and stiff neck",
+      "Headache after head injury",
+      "Headache with confusion or vision changes",
+      "Headache that wakes you from sleep",
+      "Headache with weakness on one side"
     ]
   },
   {
@@ -331,6 +347,14 @@
       "ORS",
       "Domperidone",
       "Avoid solid food temporarily"
+    ],
+"red_flags": [
+      "Vomiting blood or coffee-ground material",
+      "Severe abdominal pain with vomiting",
+      "Vomiting with severe headache",
+      "Vomiting after head injury",
+      "Signs of dehydration",
+      "Vomiting lasting more than 24 hours"
     ]
   },
   {
