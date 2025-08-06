@@ -99,6 +99,14 @@
     "suggested_medications": [
       "Paracetamol 500mg",
       "Ibuprofen 200mg (if no stomach issues)"
+    ],
+"red_flags": [
+      "Fever above 103°F (39.4°C)",
+      "Fever lasting more than 3 days",
+      "Severe headache with fever",
+      "Rash with fever",
+      "Difficulty breathing with fever",
+      "Stiff neck with fever"
     ]
   },
   {
