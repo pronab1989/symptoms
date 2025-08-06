@@ -5,9 +5,9 @@
       "Fever may be caused by infection, inflammation, or environmental triggers."
     ],
     "suggested_medications": [
-      "Consult a doctor for appropriate treatment for fever",
+      "Consult a doctor for appropriate treatment for fever.",
       "Stay hydrated",
-      "Rest as needed"
+      "Rest as needed."
     ],
     "note": "Stay hydrated and rest well.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
@@ -26,6 +26,74 @@
           {
             "option": "Severe",
             "action": "Seek immediate medical attention"
+          }
+        ]
+      },
+{
+        "question": "Is your condition associated with the flu?",
+        "options": [
+          {
+            "option": "I think so",
+            "action": "Monitor and try Ibuprofen 200mg (if no stomach issues)"
+          },
+          {
+            "option": "Not sure",
+            "action": "Consult a doctor if it worsens"
+          },
+          {
+            "option": "No, different issue",
+            "action": "Check for other symptoms or seek professional advice"
+          }
+        ]
+      },
+      {
+        "question": "Is your condition associated with the common cold?",
+        "options": [
+          {
+            "option": "I think so",
+            "action": "Monitor and try Paracetamol 500mg"
+          },
+          {
+            "option": "Not sure",
+            "action": "Consult a doctor if it worsens"
+          },
+          {
+            "option": "No, different issue",
+            "action": "Check for other symptoms or seek professional advice"
+          }
+        ]
+      },
+      {
+        "question": "Is your condition associated with heat exhaustion?",
+        "options": [
+          {
+            "option": "I think so",
+            "action": "Monitor and try Ibuprofen 200mg (if no stomach issues)"
+          },
+          {
+            "option": "Not sure",
+            "action": "Consult a doctor if it worsens"
+          },
+          {
+            "option": "No, different issue",
+            "action": "Check for other symptoms or seek professional advice"
+          }
+        ]
+      },
+      {
+        "question": "Is your condition associated with viral infection?",
+        "options": [
+          {
+            "option": "I think so",
+            "action": "Monitor and try Paracetamol 500mg"
+          },
+          {
+            "option": "Not sure",
+            "action": "Consult a doctor if it worsens"
+          },
+          {
+            "option": "No, different issue",
+            "action": "Check for other symptoms or seek professional advice"
           }
         ]
       }
@@ -71,9 +139,9 @@
       "Cough may be caused by infection, inflammation, or environmental triggers."
     ],
     "suggested_medications": [
-      "Consult a doctor for appropriate treatment for cough",
+      "Consult a doctor for appropriate treatment for cough.",
       "Stay hydrated",
-      "Rest as needed"
+      "Rest as needed."
     ],
     "note": "Avoid cold drinks and keep your throat moist.",
     "disclaimer": "This is not medical advice. Consult a healthcare professional if symptoms persist.",
